@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/amudala_14" target="blank"><img src="https://img.shields.io/twitter/follow/amudala_14?logo=twitter&style=for-the-badge" alt="amudala_14" /></a> </p>
 
-- 🔭 I’m currently working on **Si6e**
+- 🔭 I’m currently working on [Sitekash App](https://play.google.com/store/apps/details?id=com.sitekash.app&hl=en&gl=US)
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amudala14&show_icons=true&locale=en" alt="amudala14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amudala14&" alt="amudala14" /></p>
-
