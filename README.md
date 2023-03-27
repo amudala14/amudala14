@@ -4,14 +4,9 @@
 <p align="left"> <a href="https://twitter.com/amudala_14" target="blank"><img src="https://img.shields.io/twitter/follow/amudala_14?logo=twitter&style=for-the-badge" alt="amudala_14" /></a> </p>
 
 - 🔭 I’m currently working on [Sitekash App](https://play.google.com/store/apps/details?id=com.sitekash.app&hl=en&gl=US)
-
 - 🌱 I’m currently learning **Typescript**
-
 - 💬 Ask me about **React,React Native, MERN**
-
 - 📫 How to reach me **amudala41@gmail.com**
-
-- ⚡ Fun fact **I believe I am funny : )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
