@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Museme Amudala</h1>
 <h3 align="center">A passionate Javascript full stack developer from Rwanda</h3>
 
-<p align="left"> <a href="https://twitter.com/amudala_14" target="blank"><img src="https://img.shields.io/twitter/follow/amudala_14?logo=twitter&style=for-the-badge" alt="amudala_14" /></a> </p>
-
 - 🔭 I’m currently working on [Sitekash App](https://play.google.com/store/apps/details?id=com.sitekash.app&hl=en&gl=US)
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **React,React Native, MERN**
