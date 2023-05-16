@@ -6,7 +6,7 @@
 - 💬 Ask me about **React,React Native, MERN**
 - 📫 How to reach me **amudala41@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style="padding-top: 30px">Languages and Tools:</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amudala14&show_icons=true&locale=en&layout=compact" alt="amudala14" /></p>
