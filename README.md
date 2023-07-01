@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Museme Amudala</h1>
 <h3>A passionate Javascript full stack developer from Rwanda</h3>
 
-- 🔭 I’m currently working on [Sitekash App](https://play.google.com/store/apps/details?id=com.sitekash.app&hl=en&gl=US)
+- 🔭 I’m currently working on Mobile Money API integration
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **React,React Native, MERN**
 - 📫 How to reach me **amudala41@gmail.com**
