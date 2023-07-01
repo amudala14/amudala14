@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Mobile Money API integration
 - 🌱 I’m currently learning **Typescript**
-- 💬 Ask me about **React,React Native, MERN**
+- 💬 Ask me about **PHP, React, React Native, MERN**
 - 📫 How to reach me **amudala41@gmail.com**
 
 <!--<h3 align="left" style="padding-top: 30px">Languages and Tools:</h3>
